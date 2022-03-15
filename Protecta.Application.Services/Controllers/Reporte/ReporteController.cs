@@ -108,9 +108,13 @@ namespace Protecta.Application.Service.Controllers.Reporte
         {
             DateTime dfecha_deposito = Convert.ToDateTime(datoDetallesPlanillaDto.fechaDeposito);
             datoDetallesPlanillaDto.fechaDeposito = dfecha_deposito.ToString("dd/MM/yyyy");
+            DateTime dfecha_ini = Convert.ToDateTime(datoDetallesPlanillaDto.fecha_ini);
+            datoDetallesPlanillaDto.fecha_ini = dfecha_ini.ToString("dd/MM/yyyy");
+            DateTime dfecha_fin = Convert.ToDateTime(datoDetallesPlanillaDto.fecha_fin);
+            datoDetallesPlanillaDto.fecha_fin = dfecha_fin.ToString("dd/MM/yyyy");
             var result = await _reporteService.OperacionDetalle(datoDetallesPlanillaDto);
             return Ok(result);
-       }
+        }
 
         [HttpPost("[action]")]
         public async Task<IActionResult> ActualizarPlanilla([FromBody] DatosPlanillaDto datosPlanillaDto)
