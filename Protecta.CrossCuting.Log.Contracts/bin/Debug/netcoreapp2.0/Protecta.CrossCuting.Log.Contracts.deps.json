@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Protecta.CrossCuting.Log.Contracts/1.0.0": {
+        "runtime": {
+          "Protecta.CrossCuting.Log.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Protecta.CrossCuting.Log.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

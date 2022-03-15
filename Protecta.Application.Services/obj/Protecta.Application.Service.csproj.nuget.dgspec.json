@@ -1,0 +1,619 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Application.Services\\Protecta.Application.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Application.Services\\Protecta.Application.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Application.Services\\Protecta.Application.Service.csproj",
+        "projectName": "Protecta.Application.Service",
+        "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Application.Services\\Protecta.Application.Service.csproj",
+        "packagesPath": "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Application.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorge Hospinal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj"
+              },
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\Protecta.CrossCuting.Log.LoggerService.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\Protecta.CrossCuting.Log.LoggerService.csproj"
+              },
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj"
+              },
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj"
+              },
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Data\\Protecta.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Data\\Protecta.Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "Novell.Directory.Ldap.NETStandard2_0": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.12.0-beta2, )"
+            },
+            "SimpleImpersonation": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "SyrianBallaS.AutoMapper.Extensions.Microsoft.DependencyInjection.Signed": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj",
+        "projectName": "Protecta.CrossCuting.Log.Contracts",
+        "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorge Hospinal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\Protecta.CrossCuting.Log.LoggerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\Protecta.CrossCuting.Log.LoggerService.csproj",
+        "projectName": "Protecta.CrossCuting.Log.LoggerService",
+        "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\Protecta.CrossCuting.Log.LoggerService.csproj",
+        "packagesPath": "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorge Hospinal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj",
+        "projectName": "Protecta.CrossCuting.Utilities",
+        "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorge Hospinal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Syncfusion.XlsIO.Net.Core": {
+              "target": "Package",
+              "version": "[18.2.0.54, )"
+            },
+            "System.Security.Principal.Windows": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Interfaces\\Protecta.Domain.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Interfaces\\Protecta.Domain.Interfaces.csproj",
+        "projectName": "Protecta.Domain.Interfaces",
+        "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Interfaces\\Protecta.Domain.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorge Hospinal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj",
+        "projectName": "Protecta.Domain.Service",
+        "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj",
+        "packagesPath": "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorge Hospinal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Interfaces\\Protecta.Domain.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Interfaces\\Protecta.Domain.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Connection\\Protecta.Infrastructure.Connection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Connection\\Protecta.Infrastructure.Connection.csproj",
+        "projectName": "Protecta.Infrastructure.Connection",
+        "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Connection\\Protecta.Infrastructure.Connection.csproj",
+        "packagesPath": "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Connection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorge Hospinal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj"
+              },
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Data\\Protecta.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Data\\Protecta.Infrastructure.Data.csproj",
+        "projectName": "Protecta.Infrastructure.Data",
+        "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Data\\Protecta.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorge Hospinal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj"
+              },
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj"
+              },
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Interfaces\\Protecta.Domain.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Interfaces\\Protecta.Domain.Interfaces.csproj"
+              },
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj"
+              },
+              "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Connection\\Protecta.Infrastructure.Connection.csproj": {
+                "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Connection\\Protecta.Infrastructure.Connection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.12.0-beta2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

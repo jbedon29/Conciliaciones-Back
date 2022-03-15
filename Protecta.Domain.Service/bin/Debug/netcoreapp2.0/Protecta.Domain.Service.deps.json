@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Protecta.Domain.Service/1.0.0": {
+        "dependencies": {
+          "Protecta.Domain.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Protecta.Domain.Service.dll": {}
+        }
+      },
+      "Protecta.Domain.Interfaces/1.0.0": {
+        "runtime": {
+          "Protecta.Domain.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Protecta.Domain.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Protecta.Domain.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

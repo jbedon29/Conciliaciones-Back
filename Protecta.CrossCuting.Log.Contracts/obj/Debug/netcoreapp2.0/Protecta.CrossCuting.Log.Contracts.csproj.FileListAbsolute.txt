@@ -1,0 +1,10 @@
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.Contracts\bin\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.Contracts.deps.json
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.Contracts\bin\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.Contracts.dll
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.Contracts\bin\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.Contracts.pdb
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.Contracts\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.Contracts.csproj.AssemblyReference.cache
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.Contracts\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.Contracts\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.Contracts.AssemblyInfoInputs.cache
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.Contracts\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.Contracts.AssemblyInfo.cs
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.Contracts\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.Contracts\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.Contracts.dll
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.Contracts\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.Contracts.pdb

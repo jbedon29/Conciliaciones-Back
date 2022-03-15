@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6+okY1SrMpZ5Ilu4iCZeNAJTDsulpyloyYP1+/dX+Wqmd9UscGkXuMlV6cKT6Zs1tJn15MPVC8Wk6NRiHXGhIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

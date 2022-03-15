@@ -1,0 +1,13 @@
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\bin\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.LoggerService.deps.json
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\bin\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.LoggerService.dll
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\bin\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.LoggerService.pdb
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\bin\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.Contracts.dll
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\bin\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.Contracts.pdb
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.LoggerService.csproj.AssemblyReference.cache
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.LoggerService.AssemblyInfoInputs.cache
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.LoggerService.AssemblyInfo.cs
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.LoggerService.csproj.CopyComplete
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.LoggerService.dll
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.CrossCuting.Log.LoggerService\obj\Debug\netcoreapp2.0\Protecta.CrossCuting.Log.LoggerService.pdb
