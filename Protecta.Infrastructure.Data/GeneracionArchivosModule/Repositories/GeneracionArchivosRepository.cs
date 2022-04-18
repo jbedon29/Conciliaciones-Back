@@ -99,8 +99,8 @@ namespace Protecta.Infrastructure.Data.GeneracionArchivosModule.Repositories
                 if (processData)
                 {
                     result.success = P_ID_RESULTADO.Value.ToString() == "null" ? false : Convert.ToInt32(P_ID_RESULTADO.Value.ToString()) == 1;
-                    //result.message = P_VC_MENSAJE.Value.ToString() == "null" ? String.Empty : P_VC_MENSAJE.Value.ToString();
-                    result.message = result.success == true ? "se procesó correctamente" : "ERROR: !!!No se procesó correctamente!!!";
+                    result.message = P_VC_MENSAJE.Value.ToString() == "null" ? String.Empty : P_VC_MENSAJE.Value.ToString();
+                   // result.message = result.success == true ? "se procesó correctamente" : "ERROR: !!!No se procesó correctamente!!!";
                     //result.success = ((OracleDecimal)parameters[6].Value).ToInt32() == 1;                    
                     //result.message = result.success == true ? "se procesó correctamente" : "ERROR: !!!No se procesó correctamente!!!";
                 }

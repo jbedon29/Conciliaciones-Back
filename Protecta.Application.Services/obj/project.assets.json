@@ -14811,19 +14811,21 @@
   },
   "packageFolders": {
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Application.Services\\Protecta.Application.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.Application.Services\\Protecta.Application.Service.csproj",
       "projectName": "Protecta.Application.Service",
-      "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Application.Services\\Protecta.Application.Service.csproj",
+      "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.Application.Services\\Protecta.Application.Service.csproj",
       "packagesPath": "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Application.Services\\obj\\",
+      "outputPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.Application.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Jorge Hospinal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -14841,20 +14843,20 @@
         "netcoreapp2.0": {
           "targetAlias": "netcoreapp2.0",
           "projectReferences": {
-            "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj": {
-              "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj"
+            "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj"
             },
-            "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\Protecta.CrossCuting.Log.LoggerService.csproj": {
-              "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\Protecta.CrossCuting.Log.LoggerService.csproj"
+            "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\Protecta.CrossCuting.Log.LoggerService.csproj": {
+              "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\Protecta.CrossCuting.Log.LoggerService.csproj"
             },
-            "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj": {
-              "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj"
+            "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj": {
+              "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj"
             },
-            "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj": {
-              "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj"
+            "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj": {
+              "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj"
             },
-            "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Data\\Protecta.Infrastructure.Data.csproj": {
-              "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Data\\Protecta.Infrastructure.Data.csproj"
+            "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.Infrastructure.Data\\Protecta.Infrastructure.Data.csproj": {
+              "projectPath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.Infrastructure.Data\\Protecta.Infrastructure.Data.csproj"
             }
           }
         }

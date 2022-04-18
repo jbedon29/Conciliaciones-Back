@@ -11,3 +11,16 @@ C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Prot
 C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.Domain.Service\obj\Debug\netcoreapp2.0\Protecta.Domain.Service.csproj.CopyComplete
 C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.Domain.Service\obj\Debug\netcoreapp2.0\Protecta.Domain.Service.dll
 C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Conciliaciones-Back\Protecta.Domain.Service\obj\Debug\netcoreapp2.0\Protecta.Domain.Service.pdb
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\bin\Debug\netcoreapp2.0\Protecta.Domain.Service.deps.json
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\bin\Debug\netcoreapp2.0\Protecta.Domain.Service.dll
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\bin\Debug\netcoreapp2.0\Protecta.Domain.Service.pdb
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\bin\Debug\netcoreapp2.0\Protecta.Domain.Interfaces.dll
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\bin\Debug\netcoreapp2.0\Protecta.Domain.Interfaces.pdb
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\obj\Debug\netcoreapp2.0\Protecta.Domain.Service.csproj.AssemblyReference.cache
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\obj\Debug\netcoreapp2.0\Protecta.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\obj\Debug\netcoreapp2.0\Protecta.Domain.Service.AssemblyInfoInputs.cache
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\obj\Debug\netcoreapp2.0\Protecta.Domain.Service.AssemblyInfo.cs
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\obj\Debug\netcoreapp2.0\Protecta.Domain.Service.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\obj\Debug\netcoreapp2.0\Protecta.Domain.Service.csproj.CopyComplete
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\obj\Debug\netcoreapp2.0\Protecta.Domain.Service.dll
+C:\Users\Jorge Hospinal\Desktop\ConciliacionesBackJorge\Nueva carpeta\Conciliaciones-Back\Protecta.Domain.Service\obj\Debug\netcoreapp2.0\Protecta.Domain.Service.pdb
