@@ -1458,6 +1458,7 @@ namespace Protecta.Infrastructure.Data.CobranzasModule.Repositories
                 parameters.Add(new OracleParameter("P_CONTRATANTE", OracleDbType.NVarchar2, DatosConsultaFormaPago.doc_contratante, ParameterDirection.Input));
                 parameters.Add(new OracleParameter("P_REC_NC", OracleDbType.NVarchar2, DatosConsultaFormaPago.rec_nc, ParameterDirection.Input));
                 parameters.Add(new OracleParameter("P_TIPO", OracleDbType.Int32, DatosConsultaFormaPago.tipo, ParameterDirection.Input));
+                parameters.Add(new OracleParameter("P_TIPO_MONEDA", OracleDbType.Int32, DatosConsultaFormaPago.tipoMoneda, ParameterDirection.Input));
                 parameters.Add(new OracleParameter("C_LISTA", OracleDbType.RefCursor, ParameterDirection.Output));
 
                 using (OracleDataReader dr = (OracleDataReader)_connectionBase.ExecuteByStoredProcedure("PKG_SCTR_COBRANZAS.LIST_NC_DOCCLIENTES", parameters, ConnectionBase.enuTypeDataBase.OracleVTime))

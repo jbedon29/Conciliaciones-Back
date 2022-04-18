@@ -13,6 +13,7 @@ namespace Protecta.Application.Service.Dtos.Cobranzas
         public string doc_contratante;
         public string rec_nc;
         public int tipo;
+        public int tipoMoneda;
 
     }
     // lo carga en tb temporal 

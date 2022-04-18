@@ -10,6 +10,7 @@ namespace Protecta.Domain.Service.CobranzaModule.Aggregates.CobranzaAgg
         public string doc_contratante;
         public string rec_nc;
         public int tipo;
+        public int tipoMoneda;
 
     } // lo carga en tb temporal 
 
