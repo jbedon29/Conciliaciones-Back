@@ -13,6 +13,8 @@ namespace Protecta.Application.Service.Dtos.Cobranzas
         public string Fila { get; set; }
         public int    IdBanco { get; set; }
         public int    IdProducto { get; set; }
+        public int IdMoneda { get; set; }
+        
         public string FechaInicial { get; set; }
         public string FechaFinal { get; set; }
         public int Segmento { get; set; }
