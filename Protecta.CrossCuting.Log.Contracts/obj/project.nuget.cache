@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2LVKblr6dsfSKU1iMH5jBSq9T99MZrid6Ce/ymMwR3YCHyAzV4qwtpLYYKimMq9aI5zhcVJIwI0dHWoqsBB4Nw==",
+  "dgSpecHash": "IuWhlqQRYi+ObfbpbzvXxBSIPLsEuexuFUPiAB6eafInb8fPQjhGEcKBUvf0DdfQXBoCLmfDe5KGjCRsZfg85g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.CrossCuting.Log.Contracts\\Protecta.CrossCuting.Log.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",

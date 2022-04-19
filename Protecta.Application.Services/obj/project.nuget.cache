@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z9QYweesX/cZ22Nuld+6TUCuVmSo5EmTpkTICv0Q7Iqu06r6Xw8irg2U01xtTlYBJmgMG1jiPyEUjs3WLayurw==",
+  "dgSpecHash": "FxDdkyoKS3NUpi0zSWqi9L3qonm6FqCp4Ca0Cj9+9UJZVfZL8nccirh/0kacuruyy5+pBM2nRST1hUfUgk85dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Application.Services\\Protecta.Application.Service.csproj",
+  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.Application.Services\\Protecta.Application.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\automapper\\6.2.2\\automapper.6.2.2.nupkg.sha512",
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",

@@ -15,5 +15,7 @@ namespace Protecta.Domain.Service.CobranzaModule.Aggregates.CobranzaAgg
         public string FechaInicial { get; set; } 
         public string FechaFinal { get; set; }
         public int CodigoUsuario { get; set; }
+        public int IdMoneda { get; set; }
+        
     }
 }

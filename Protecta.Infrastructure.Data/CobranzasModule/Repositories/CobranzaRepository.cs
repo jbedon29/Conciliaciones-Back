@@ -197,17 +197,23 @@ namespace Protecta.Infrastructure.Data.CobranzasModule.Repositories
             parameters.Add(new OracleParameter("P_DFECHAINI", OracleDbType.Date, DateTime.Parse(trama.FechaInicial, cultureInfo), ParameterDirection.Input));
             parameters.Add(new OracleParameter("P_DFECHAFIN", OracleDbType.Date, DateTime.Parse(trama.FechaFinal, cultureInfo), ParameterDirection.Input));
             parameters.Add(new OracleParameter("P_NUSERCODE", OracleDbType.Int32, trama.CodigoUsuario, ParameterDirection.Input));
+           
 
             //Parámetro de Salida
-            var pValid = new OracleParameter("P_NCODE", OracleDbType.Int32, ParameterDirection.Output);
             var pRuta = new OracleParameter("P_SRUTA", OracleDbType.NVarchar2, ParameterDirection.Output);
             pRuta.Size = 2500;
-
-
-            // var pRuta = new OracleParameter("P_SRUTA", OracleDbType.Varchar2,4000, ParameterDirection.Output);
-            var pMensaje = new OracleParameter("P_SMESSAGE", OracleDbType.Varchar2, 4000, ParameterDirection.Output);
             parameters.Add(pRuta);
+
+            parameters.Add(new OracleParameter("P_MONEDA", OracleDbType.Int32, trama.IdMoneda, ParameterDirection.Input));
+
             parameters.Add(new OracleParameter("LISTA", OracleDbType.RefCursor, ParameterDirection.Output));
+
+            var pValid = new OracleParameter("P_NCODE", OracleDbType.Int32, ParameterDirection.Output);
+           
+             //var pRuta = new OracleParameter("P_SRUTA", OracleDbType.Varchar2,4000, ParameterDirection.Output);
+            var pMensaje = new OracleParameter("P_SMESSAGE", OracleDbType.Varchar2, 4000, ParameterDirection.Output);
+            
+            
             parameters.Add(pValid);
             parameters.Add(pMensaje);
 
