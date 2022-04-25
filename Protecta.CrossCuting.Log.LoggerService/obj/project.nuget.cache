@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1JUolNlwKFAKvHJXjYTCh46uCbxc5Jr5Uecu+ugfVjRaSJF9aP7oxnVc2Hp8BeYby8M4o4ktJfkebPieXLS1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\Protecta.CrossCuting.Log.LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.extensions.logging\\2.0.1\\microsoft.extensions.logging.2.0.1.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.1\\microsoft.extensions.logging.abstractions.2.0.1.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.extensions.options\\2.0.1\\microsoft.extensions.options.2.0.1.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\nlog\\4.5.2\\nlog.4.5.2.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\nlog.extensions.logging\\1.0.1\\nlog.extensions.logging.1.0.1.nupkg.sha512",
+    "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
