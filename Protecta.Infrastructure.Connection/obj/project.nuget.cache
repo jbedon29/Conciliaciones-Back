@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SPPxZu+kQIBaGu0bJTiDRXxUtaXwDufrJQUeI5rSPFixTODDdKUaCrWDa7tpnS/an8B/TyDrCv2zrHTBlwbNkg==",
+  "dgSpecHash": "UOVJc6QsaRqisL2fuxvE/Pg+GjVy1eJr34XOUMnEYRYw0kYbTNPZDOlDDH7WuEMl+8OJ/lOK0Jt5kstXN4MLsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.Infrastructure.Connection\\Protecta.Infrastructure.Connection.csproj",
+  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\25042022\\Conciliaciones-Back\\Protecta.Infrastructure.Connection\\Protecta.Infrastructure.Connection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",

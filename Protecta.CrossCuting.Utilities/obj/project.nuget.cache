@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYv15sWG6jNvJbMIX+KbMzl2S9Vhc83R3EZAwAedpMq0fzIJrd/cz50e7M96l3JpgZgHA+uZyg/GBiPy+mp60A==",
+  "dgSpecHash": "TrhM6wLnVejoq0Dy7zGgGHlS09NTJz/smmXHIgyUMkVEomwnt+XYAEGNJ+bbPHco2esHIQEHPuBogx2MAZJ+rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj",
+  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\25042022\\Conciliaciones-Back\\Protecta.CrossCuting.Utilities\\Protecta.CrossCuting.Utilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",
