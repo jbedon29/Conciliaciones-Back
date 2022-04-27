@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U/NitoG28sQmwI9BkqlbaUMdsmM+WMtq6Od0qnXFcUIYj86tYZ/h5bl9YdRdk7ni5DNK9ndPTQTi2XNclqKfhw==",
+  "dgSpecHash": "7KkRP97g0HqXkiUe9jwbvZc0b6LmoeG72vJhhfZU49ImP0/84zS963va7h5kKMW48QW0aoLc8ljvFGHlHGnO9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\Protecta.CrossCuting.Log.LoggerService.csproj",
+  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\25042022\\Conciliaciones-Back\\Protecta.CrossCuting.Log.LoggerService\\Protecta.CrossCuting.Log.LoggerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.extensions.logging\\2.0.1\\microsoft.extensions.logging.2.0.1.nupkg.sha512",

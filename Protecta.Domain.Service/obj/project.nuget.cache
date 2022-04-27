@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Ze3GuoQDpbo/+Kt2OkzvWu8v2jtslvVvQIvdCLDnk1gT8cOSehBzp5r0fpCP0hOKSelZDRhNk8LK6yVAXGQlQ==",
+  "dgSpecHash": "GE0YEvavKkZ+zgJ1JFpBq4LCPPr0/1tUjFfkqIkmp23jFbwHxptkFXDoq2hh5qI3qMw9OCYTDq6mbVKjsfR+4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\Nueva carpeta\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj",
+  "projectFilePath": "C:\\Users\\Jorge Hospinal\\Desktop\\ConciliacionesBackJorge\\25042022\\Conciliaciones-Back\\Protecta.Domain.Service\\Protecta.Domain.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
     "C:\\Users\\Jorge Hospinal\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
